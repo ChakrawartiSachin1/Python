@@ -1,2 +1,0 @@
-# Python
-Full Stack Python 
